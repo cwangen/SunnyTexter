@@ -1,0 +1,10 @@
+#Example json file as used in the code for a user. 
+# A similiar file is used for the credentials of the outgoing email. 
+
+{ 
+  #User email or phone number as email
+  "user": "UserEmailGoesHere",
+  #Users area code or city
+  "city": "AreaCodeOrCity",
+  "device": "EmailOrPhone"
+}
